@@ -59,8 +59,6 @@ def dennis_ritchies_language
 		 return programmer_hash[:dennis_ritchie][:languages].join(", ")
 end
 
-dennis_ritchies_language
-
 def adding_matz
 # add the following information to the top level of programmer_hash
 # :yukihiro_matsumoto => {
