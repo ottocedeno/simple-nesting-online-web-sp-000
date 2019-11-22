@@ -57,6 +57,7 @@ def dennis_ritchies_language
         }
      }
 		 test1 = programmer_hash[:dennis_ritchie]
+		 binding.pry
 end
 
 dennis_ritchies_language
